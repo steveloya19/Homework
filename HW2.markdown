@@ -24,3 +24,5 @@ This is a paragraph
 2. Item 2
 3. Item 3
 4. Item3a
+
+## Table
