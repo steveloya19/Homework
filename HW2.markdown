@@ -12,3 +12,15 @@ This is a paragraph
 ## Lists
 
 ### Unordered
+
+- item one
+- item two
+    - item a
+    - item b
+
+### Ordered
+
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item3a
